@@ -8,7 +8,7 @@
 - Code generation and module creation automation
 
 #### Practice
-- Compound VIPER modules
+- [Compound VIPER modules](compound-modules.md)
 - Transitions between modules
 - The road from MVC to VIPER
 - VIPER and NSFetchedResultsController
